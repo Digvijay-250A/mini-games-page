@@ -103,7 +103,9 @@ This project is free to use. Feel free to modify and share it! 🚀
 
 📧 Contact
 
-For questions or suggestions, reach out at:📩 digvijay250a@gmail.com🌐 GitHub Profile
+For questions or suggestions, reach out at:
+📩 digvijay250a@gmail.com
+🌐 Digvijay-250A
 
 Enjoy & Happy Gaming! 🎲🎉
 
