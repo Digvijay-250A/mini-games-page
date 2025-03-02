@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles23.css">
+    <script src="sudoku.js"></script>
+    <title>Sudoku</title>
+    <style>
+        .digits{
+            height: 50px;
+            margin-top: 10px;
+            gap: 2px;
+            text-align: center;
+            display: grid;
+            grid-template-columns: repeat(9, 1fr);
+        }
+        .tiles{
+            display: flex;
+            justify-content: center;
+            border: 1px solid #000;
+            font-size: 21px;
+            font-weight: bold;
+            align-items: center;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Sudoku</h1>
+    <h2 id="error_count">Error count: 0</h2>
+    <hr/>
+    <div class="board"></div>
+    <div class="digits" ></div>
+</body>
+</html>
